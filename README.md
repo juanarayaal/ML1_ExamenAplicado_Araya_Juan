@@ -82,7 +82,7 @@ ML1_ExamenAplicado_Araya_Juan/
 La carpeta figures/ contiene los gráficos generados durante el análisis.
 
 ## Video de presentación
-
+https://drive.google.com/file/d/1W9HHjswseeSk7_FwOatPzA3n2Buz2Qqm/view?usp=sharing
 
 ## Uso de inteligencia artificial generativa
 
